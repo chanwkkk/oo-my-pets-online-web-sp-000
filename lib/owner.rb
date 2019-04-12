@@ -64,6 +64,6 @@ class Owner
     cat_size=@pets[:cats].size
     dog_size=@pets[:dog].size
     "I have #{fish_size} fish, #{dog_size} dog(s), and #{cat_size} cat(s)."
-    
+
   end
 end
